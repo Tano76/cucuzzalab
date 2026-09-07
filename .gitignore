@@ -5,3 +5,5 @@ out/
 .env.local
 *.log
 prisma/migrations/
+images/
+db/*.db
